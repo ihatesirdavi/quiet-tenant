@@ -1,4 +1,4 @@
-# Chromaweave Lab
+# Quiet Tenant
 
 **Public product codename** | palette-and-ui-design-tool | **Staging, not released**
 

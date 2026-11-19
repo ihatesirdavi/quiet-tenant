@@ -1,7 +1,7 @@
 {
     "schema":  "codename-product-home-v1",
-    "codename":  "Chromaweave Lab",
-    "repo":  "ihatesirdavi/chromaweave-lab",
+    "codename":  "Quiet Tenant",
+    "repo":  "ihatesirdavi/quiet-tenant",
     "product_kind":  "palette-and-ui-design-tool",
     "visibility":  "PUBLIC",
     "status":  "PUBLIC_STAGING_NO_IMPLEMENTATION",
