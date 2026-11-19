@@ -1,4 +1,4 @@
-# Prismforge
+# Chromaweave Lab
 
 **Public product codename** | palette-and-ui-design-tool | **Staging, not released**
 
